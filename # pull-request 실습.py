@@ -1,4 +1,5 @@
 # pull-request 실습
+# Toched by sub_account
 
 a = int(input('날짜를 입력하세요(월): '))
 b = int(input('날짜를 입력하세요(일): '))
